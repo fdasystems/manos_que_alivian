@@ -1,0 +1,181 @@
+UL
+{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.ul
+{
+	line-height: 16px;
+}
+.ul A
+{
+	color: #5EACC2;
+}
+.ul LI
+{
+	background: url(images/pointer_red.gif) no-repeat top left;
+	padding: 0 0 0 10px;
+	margin-top: 7px;
+}
+.ul2
+{
+	line-height: 18px;
+}
+.ul2 A
+{
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.ul2 LI
+{
+	background: url(images/pointer_w.gif) no-repeat center left;
+	padding: 0 0 0 12px;
+}
+.ul3
+{
+	line-height: 15px;
+}
+.ul3 A:hover
+{
+	text-decoration: underline;
+}
+.ul3 A
+{
+	color: #3B3B3B;
+	text-decoration: none;
+}
+.ul3 LI
+{
+	background: url(images/pointer_b.gif) no-repeat center left;
+	padding: 0 0 0 13px;
+}
+.ul4
+{
+	line-height: 16px;
+}
+.ul4 A
+{
+	color: #5EACC2;
+}
+.ul4 LI
+{
+	background: url(images/pointer_bl.gif) no-repeat center left;
+	padding: 0 0 0 11px;
+}
+.ul5
+{
+	line-height: 16px;
+}
+.ul5 A
+{
+	color: #5EACC2;
+}
+.ul5 LI
+{
+	background: url(images/pointer_red.gif) no-repeat top left;
+	padding: 0 0 0 10px;
+}
+.ul6
+{
+	line-height: 18px;
+}
+.ul6 A
+{
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.ul6 LI
+{
+	background: url(images/pointer_w2.gif) no-repeat left top;
+	padding: 0 0 0 12px;
+}
+FORM
+{
+	margin: 0px;
+	padding: 0px;
+}
+BODY
+{
+	margin: 0px;
+	padding: 0px;
+	background-color: #FFFFFF;
+}
+TD, DIV, SELECT
+{
+	font-size: 11px;
+	font-family: Tahoma;
+	color: #807E7E;
+	line-height: 13px;
+}
+.m
+{
+	color: #6D6D6D;
+}
+.black
+{
+	color: #44423D;
+}
+.white
+{
+	color: #FFFFFF;
+}
+.sea
+{
+	color: #468CA2;
+}
+.sea_10
+{
+	color: #468CA2;
+	font-size: 10px;
+}
+A
+{
+	color: #FBFDFE;
+}
+.pol2 A:hover
+{
+	text-decoration: underline;
+}
+.pol2
+{
+	font-family: Arial;
+	font-size: 10px;
+	color: #468A97;
+	text-decoration: none;
+}
+.pol1
+{
+	font-size: 10px;
+	color: #6EACB8;
+}
+A:hover
+{
+	text-decoration: none;
+	background-color: #D993F1;
+}
+.blue
+{
+	color: #4CAEC2;
+}
+.input
+{
+	width: 178px;
+	height: 21px;
+	background-color: #FFFFFF;
+	font-size: 11px;
+	font-family: Tahoma;
+	color: #727171;
+	padding: 2 0 0 4px;
+}
+.textarea
+{
+	width: 178px;
+	height: 151px;
+	background-color: #F09494;
+	font-size: 11px;
+	font-family: Tahoma;
+	color: #727171;
+	padding: 2 0 0 4px;
+	overflow: auto;
+}
