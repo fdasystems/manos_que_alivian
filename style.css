@@ -92,17 +92,18 @@ UL
 }
 FORM
 {
-	margin: 0px;
+	margin: 10px;
 	padding: 0px;
 }
 BODY
 {
-	margin: 0px;
+	margin: 5px;
 	padding: 0px;
 	background-color: #FFFFFF;
 }
 TD, DIV, SELECT
 {
+	margin: 10px;
 	font-size: 11px;
 	font-family: Tahoma;
 	color: #807E7E;
